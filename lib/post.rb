@@ -8,8 +8,4 @@ class Post
     @author = Author.new
   end
 
-  #def author()
-    #author = Author.new 
-  #end
-
 end
