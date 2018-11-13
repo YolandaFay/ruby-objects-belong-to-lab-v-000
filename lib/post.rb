@@ -1,12 +1,12 @@
-class Author  
+#class Author  
   
-  attr_accessor :name 
+ # attr_accessor :name 
   
-  def initialize ()
-    @name = name 
-  end
+  #def initialize ()
+  #  @name = name 
+  #end
 
-end
+#end
 
 class Post  
   
@@ -15,12 +15,11 @@ class Post
   
   def initialize ()
     @ntitle = title 
-    @author = Author.new 
-    
+    @author = Author.new
   end
 
-  def author()
-    author = Author.new 
-  end
+  #def author()
+    #author = Author.new 
+  #end
 
 end
