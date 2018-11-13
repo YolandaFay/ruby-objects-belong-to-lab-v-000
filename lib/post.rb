@@ -7,7 +7,7 @@ class Post
   end
 
   def author 
-    
+    @author = author 
   end
 
 end
