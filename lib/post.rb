@@ -6,7 +6,7 @@ class Post
     @ntitle = title 
   end
 
-  def author 
+  def author(author)
     @author = author 
   end
 
