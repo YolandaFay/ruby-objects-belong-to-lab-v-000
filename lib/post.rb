@@ -6,4 +6,8 @@ class Post
     @ntitle = title 
   end
 
+  def author 
+    
+  end
+
 end
