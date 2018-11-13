@@ -2,8 +2,8 @@ class Post
   
   attr_accessor :title  
   
-  def initialize (name)
-    @name = name 
+  def initialize (title)
+    @ntitle = title 
   end
 
 end
